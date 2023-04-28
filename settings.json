@@ -1,0 +1,50 @@
+{
+    "General-Settings": {
+        "Use-Proxies": true,
+        "Scrape-Proxies": true,
+        "Show-Logs": true,
+        "Show-License": true,
+        "Spam-Amount": 250,
+        "Role-Amount": 50,
+        "Channel-Amount": 50
+    },
+    "Bot-Settings": {
+        "Token": "MTEwMTUzODYyNDM4Mzc0NjIzMA.GVLV7o.wva7kJ9XHi0GP5I1it9TXhdrSsdIdpTVCwcl68",
+        "Prefix": "m!",
+        "Bot": true
+    },
+    "Nuke-Settings": {
+        "Nick-Name": "ZİRAAT",
+        "Server-Name": "ZİRAAT YAN SANAYİ",
+        "Rename-Channels": [
+            "ziraat",
+            "adamı",
+            "siker",
+            "atar"
+        ],
+        "Channel-Names": [
+            "ziraat",
+            "adamı",
+            "siker",
+            "atar"
+        ],
+        "Role-Names": [
+            "ziraat",
+            "adamı",
+            "siker",
+            "atar"
+        ],
+        "Webhook-Usernames": [
+            "ZİRAAT ADAMI SİKER ATAR"
+        ],
+        "Webhook-Contents": [
+            "@everyone ZİRAAT SİKTİ ATTI XD?
+https://discord.gg/BVpY2NBGGX",
+            "@everyone ABONE OLMAYI UNUTMAYIN XD?
+https://youtube.com/@skullv1944",
+            "@everyone ZİRAAT SİKER İZLER DURURSUNUZ XD?
+https://discord.gg/BVpY2NBGGX"
+        ]
+
+    }
+}
